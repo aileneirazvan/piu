@@ -1,0 +1,6 @@
+C:\Users\ailen\Desktop\Tema PIU\GestiuneFarmacie\GestiuneFarmacie\bin\Debug\GestiuneFarmacie.exe.config
+C:\Users\ailen\Desktop\Tema PIU\GestiuneFarmacie\GestiuneFarmacie\bin\Debug\GestiuneFarmacie.exe
+C:\Users\ailen\Desktop\Tema PIU\GestiuneFarmacie\GestiuneFarmacie\bin\Debug\GestiuneFarmacie.pdb
+C:\Users\ailen\Desktop\Tema PIU\GestiuneFarmacie\GestiuneFarmacie\obj\Debug\GestiuneFarmacie.csprojAssemblyReference.cache
+C:\Users\ailen\Desktop\Tema PIU\GestiuneFarmacie\GestiuneFarmacie\obj\Debug\GestiuneFarmacie.exe
+C:\Users\ailen\Desktop\Tema PIU\GestiuneFarmacie\GestiuneFarmacie\obj\Debug\GestiuneFarmacie.pdb
