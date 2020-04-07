@@ -1,0 +1,23 @@
+Nume medicament: Parasinus
+Forma: Comprimate
+Categorie: analgezic
+Eliberare: Fara_Prescriptie
+Raft: 1
+Rand: 2
+Pret: 14
+
+Nume medicament: Xanax
+Forma: Capsula
+Categorie: calmant
+Eliberare: Prescriptie
+Raft: 1
+Rand: 4
+Pret: 40
+
+Nume medicament: Metoclopramid
+Forma: Drajeuri
+Categorie: analgezic
+Eliberare: Fara_Prescriptie
+Raft: 1
+Rand: 3
+Pret: 10
