@@ -224,6 +224,7 @@ namespace GestiuneFarmacie
                         StreamReader sr = new StreamReader("C:/Users/ailen/Desktop/Tema PIU/GestiuneFarmacie/GestiuneFarmacie/TextFile/Test.txt");
                         while (linie != null)
                         {
+                            nume = string.Empty;
                             for (int i = 0; i < 7; i++)
                             {
                                  linie = sr.ReadLine();
@@ -246,16 +247,17 @@ namespace GestiuneFarmacie
                                 
 
                             }
+                            Console.WriteLine("\n");
+                            Console.WriteLine(nume);
+                            Console.WriteLine("\n");
                             linie = sr.ReadLine();
                             if (linie == null)
                             {
                                 break;
                             }
-                        }
                             
-                        Console.WriteLine("\n");
-                        Console.WriteLine(nume);
-                        Console.WriteLine("\n");
+                        }  
+                        
                         sr.Close();
                         break;
 
